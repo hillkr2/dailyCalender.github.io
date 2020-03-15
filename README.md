@@ -1,1 +1,1 @@
-# dailyCalender.github.io
+# daily_planner.github.io
